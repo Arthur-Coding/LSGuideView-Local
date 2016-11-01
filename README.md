@@ -4,7 +4,7 @@
    
    导入：
    #Import:
-   pod 'LSLocalGuideView'
+   pod 'LSGuideView-Local'
    
    使用：
    1.调用初始化方法，设置frame与图片数组(建议数组红存放图片路径)
